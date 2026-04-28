@@ -9,6 +9,8 @@
 - 💻 **Programming in:** Mainly Java
 - 😂 **Fun Fact:** I really like Otters
 
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+
 # Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/daidat228) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eznorb_dd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-dong-dai-74b0773a2 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dongdat2208@gmail.com) 
 
@@ -21,6 +23,8 @@
 
 # Streak:
 ![](https://streak-stats.demolab.com/?user=DongDaiDat&theme=shadow_blue&hide_border=true)<br/>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
