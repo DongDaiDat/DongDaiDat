@@ -1,3 +1,10 @@
+<h1 align="center"> Hey, I'm Dat </h1>
+<h3 align="center">🔥 Lazy Developer 🔥</h3>
+# Me
+- 👤 **Age:** 20
+- 🗺️ **Location:** Viet Nam  
+- 💻 **Programming in:** Mainly Java
+- 😂 **Fun Fact:** I really like Otters
 # Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/daidat228) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eznorb_dd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-dong-dai-74b0773a2 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dongdat2208@gmail.com) 
 # Tech Stack:
