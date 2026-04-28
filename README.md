@@ -1,6 +1,8 @@
 <h1 align="center"> Hey, I'm Dat </h1>
 <h3 align="center">🔥 Lazy Developer 🔥</h3>
 
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+
 # Me
 - 👤 **Age:** 20
 - 🗺️ **Location:** Viet Nam  
