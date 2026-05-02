@@ -20,6 +20,6 @@
 # 🔥 Streak:
 ![](https://streak-stats.demolab.com/?user=DongDaiDat&theme=shadow_blue&hide_border=true)<br/>
 
-<div><div align="center"> Thank you for visiting </div>
+<h3 align="center">Thank you for visiting</h3>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
