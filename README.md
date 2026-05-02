@@ -1,7 +1,7 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
 <h1 align="center"> Hi, I'm Dat </h1> <h3 align="center">🔥 Just A Lazy Developer 🔥</h3>
 
-# <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center"> Me
+# <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/> Me :
 - 👤 **Age:** 20
 - 🗺️ **Location:** Viet Nam  
 - 💻 **Programming in:** Mainly Java
@@ -22,9 +22,8 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
-<div>
-<div align="center"> ![Thank you](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=45A1FF&center=true&width=550&lines=Thank+you+for+visiting+my+GitHub+profile+%F0%9F%92%99) </div>
-
+<div><div align="center"> ![Thank you for visiting] </div>
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
 </p>
