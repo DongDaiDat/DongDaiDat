@@ -20,10 +20,6 @@
 # 🔥 Streak:
 ![](https://streak-stats.demolab.com/?user=DongDaiDat&theme=shadow_blue&hide_border=true)<br/>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
-
 <div><div align="center"> Thank you for visiting </div>
-  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
-</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
