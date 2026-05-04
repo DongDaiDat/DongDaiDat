@@ -3,7 +3,7 @@
 
 # <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>Me:
 👤 **Age:** 20  
-🗺️ **Location:** Viet Nam  
+🗺️ **Location:** Thanh Hoa/Viet Nam  
 💻 **Programming in:** Mainly Java
 
 # 💌 Socials:
