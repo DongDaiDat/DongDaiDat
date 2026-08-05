@@ -1,5 +1,5 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
-<h1 align="center"> Hi, I'm Dat </h1> <h3 align="center">🔥 Just A Lazy Developer 🔥</h3>
+<h1 align="center"> Hi, I'm Dai Dat </h1> <h3 align="center">🔥 Just A Lazy Developer 🔥</h3>
 
 # <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>Me:
 👤 **Age:** 20  
