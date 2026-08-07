@@ -4,7 +4,7 @@
 # <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>Me:
 👤 **Age:** 20  
 🗺️ **Location:** Thanh Hoa/Viet Nam  
-💻 **Programming in:** Mainly JavaScript
+💻 **Programming in:** Mainly JavaScriptttt
 
 # 💌 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/daidat228) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eznorb_dd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-dong-dai-74b0773a2 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dongdat2208@gmail.com) 
