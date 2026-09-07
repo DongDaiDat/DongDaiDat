@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Dai Dat </h1> <h3 align="center">🔥 Just A Lazy Developer 🔥</h3>
 
 # <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>Me:
-👤 **Age:** 20  
+👤 **Age:** 21  
 🗺️ **Location:** Thanh Hoa/Viet Nam  
 💻 **Programming in:** Mainly JavaScriptttt
 
